@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ankiitm2
+- 👀 I’m interested in web development, UX/UI design, and open-source projects.
+- 🌱 I’m currently learning advanced React patterns.
+- 💻 I have 2.4 years of experience in frontend development, specializing in ReactJS, Redux, TypeScript and Tailwind CSS.
+- 💞️ I’m looking to collaborate on React-based projects and innovative web applications.
+- 📫 How to reach me: https://www.linkedin.com/in/ankit-mishra-3aab7b236
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about photography and often mix my coding breaks with outdoor shoots.
